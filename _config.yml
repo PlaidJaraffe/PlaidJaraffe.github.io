@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://PlaidJaraffe.github.io
+title: Today's Arbitrary Blog
+email: jaredbarmstrong1@gmail.com
+author: ThePlaidJaraffe
+description: A various intertwined mix of arbitrary postings from those who find enjoyment from reading such articles.
+paginate: 5
+google_analytics: 
